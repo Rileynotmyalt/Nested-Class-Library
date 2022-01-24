@@ -1,4 +1,14 @@
 package com.edu;
+/*   THINGS:
+ - Be able to call book list by genre
+    - or all if possible
+ - Get array of branch names and locations, be able to call based on that list
+    - funny user input go weeeee
+ - Add and remove books from libraries
+    - (check in and out)
+    - Maybe duplicates?
+ */
+
 
 public class Main {
 
