@@ -9,7 +9,7 @@ package com.edu;
     - Maybe duplicates?
  */
 
-// so if i throw an edit here does it work?
+// so if i throw an edit here does it work? (yes)
 public class Main {
 
     public static void main(String[] args) {
